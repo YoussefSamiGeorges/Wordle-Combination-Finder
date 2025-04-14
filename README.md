@@ -26,7 +26,7 @@ This outperforms the commonly cited combination `['JUNKS', 'WHOMP', 'CALYX', 'FR
 
 ```
 HTML Files (Wordle pages) 
-  ↓ [scrap_all_wordle.py, scrap_words.py]
+  ↓ [scrap_wordle_words.py, scrap_all_words.py]
 wordle_words.json, all_words.json, black_words.json, red_words.json, green_words.json
   ↓ [words_filter.py]
 words_list.json
